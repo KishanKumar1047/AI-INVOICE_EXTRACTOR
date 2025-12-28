@@ -1,9 +1,4 @@
-Here’s a **clean, professional, and GitHub-ready `README.md`** for your project.
-You can **copy–paste this directly** into your repository.
 
----
-
-```md
 # 🧾 Multilanguage Invoice Extractor (LangChain + Gemini)
 
 An intelligent **Multilanguage Invoice Extraction system** built using **LangChain**, **Google Gemini Vision**, and **Streamlit**.  
@@ -168,3 +163,4 @@ If you want, I can also:
 
 You’re building something solid—this README already puts you at a **production-ready level** 🚀
 ```
+
